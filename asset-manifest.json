@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.dcb5eed1.css",
-    "main.js": "/static/js/main.ae97605c.js",
+    "main.js": "/static/js/main.d395cd49.js",
     "static/js/206.79578c78.chunk.js": "/static/js/206.79578c78.chunk.js",
+    "static/media/eua-flag.svg": "/static/media/eua-flag.d091fc0cf62288ed79387c6b1a5865a7.svg",
+    "static/media/brasil-flag.svg": "/static/media/brasil-flag.100516bc4bddde66b73f49ddb2472cb1.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.dcb5eed1.css",
-    "static/js/main.ae97605c.js"
+    "static/js/main.d395cd49.js"
   ]
 }
